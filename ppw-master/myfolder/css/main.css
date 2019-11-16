@@ -1,0 +1,49 @@
+body{
+	background: url(../img/bg.jpg);
+	background-attachment: fixed;
+	margin: 0;
+}
+header{
+	background: rgba(250, 150, 0, 0.8);
+	height: 40px;
+	font-size: 36px;
+	text-align: center;
+}
+section{
+	background: white;
+}
+}
+nav{
+	
+	font-size: 50px;
+	text-align: ;
+}
+nav.menu{
+	border:100px;
+	padding: 0px;
+	size: 100%;
+
+}
+nav.menu a{
+	text-align: center;
+	text-decoration: none;
+	color: #000080;
+	width: 19%;
+	display: inline-block;
+	background: lavender;
+	border-radius: 30px;
+	size: 100px;
+	border-bottom: 10px solid lavender;
+
+}
+nav.menu a:hover {
+	color: #0000140;
+	border-bottom: 10px solid #5757a0;
+	border-radius: 0;
+}
+
+}
+section h1 {
+	text-align: center;
+	color: gray;
+}
